@@ -1,0 +1,9 @@
+[submodule "element-pants"]
+	path = element-pants
+	url = git@github.com:dandean/element-pants.git
+[submodule "object-pants"]
+	path = object-pants
+	url = git@github.com:dandean/object-pants.git
+[submodule "array-pants"]
+	path = array-pants
+	url = git@github.com:dandean/array-pants.git
