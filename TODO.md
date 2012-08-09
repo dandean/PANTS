@@ -24,8 +24,7 @@ Just use EventEmitter2.
 
 NodeList Pants
 ------------------
-Extend NodeList with common array members.
-forEach, map, filter, reduce, reverse, slice, some, sort, splice
+√ Extend NodeList with common array members.
 
 
 Object Pants
