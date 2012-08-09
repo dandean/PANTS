@@ -48,3 +48,8 @@ capitalize, truncate
 Function Pants
 ----------------
 Bind? Anything else? I hate all that delay shit, but debounce or throttle might be nice.
+
+
+Class Pants
+----------------
+Possible to transpile ES6 classes? Experimental?
