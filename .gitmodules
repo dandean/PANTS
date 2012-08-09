@@ -7,3 +7,6 @@
 [submodule "array-pants"]
 	path = array-pants
 	url = git@github.com:dandean/array-pants.git
+[submodule "string-pants"]
+	path = string-pants
+	url = ./string-pants/
